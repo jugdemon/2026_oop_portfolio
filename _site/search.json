@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nShort bio, skills, contact info, and a link to your resume.\n\nSkills: Python, pandas, scikit-learn, SQL, data visualization\nContact: your.email@example.com\n\nUpload a resume.pdf to the repo root and link it here when ready."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of data science projects showcasing different techniques and technologies.\n\n\nAn interactive web application built with Shiny for exploring and visualizing the Iris dataset.\n\n\n\nIris Data Visualization\n\n\nThis project demonstrates object-oriented Python design patterns applied to a real-world data visualization application. It uses Shiny for interactivity and Plotly for dynamic visualizations.\nView Project Details →"
+  },
+  {
+    "objectID": "projects/resume.html",
+    "href": "projects/resume.html",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Data Scientist • Machine Learning • Visualization\n\nEmail: your.email@example.com\nLinkedIn: https://www.linkedin.com/in/your-profile\nGitHub: https://github.com/your-username\n\n\n\nShort 2–3 sentence summary about your focus, strengths, and the roles you’re seeking.\n\n\n\n\nPython, pandas, scikit-learn, PyTorch\nData visualization: plotly, matplotlib, seaborn\nSQL, Docker, cloud basics\n\n\n\n\n\nProject A — short bullet point summary\nProject B — short bullet point summary\n\n\n\n\nIf you’d like to reach me directly, send an email or use the form below (Formspree example):\n\nName  Email  Message\n\n Send\n\nNotes: - Replace https://formspree.io/f/your-form-id with your Formspree form endpoint or another form backend."
+  },
+  {
+    "objectID": "projects/resume.html#summary",
+    "href": "projects/resume.html#summary",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Short 2–3 sentence summary about your focus, strengths, and the roles you’re seeking."
+  },
+  {
+    "objectID": "projects/resume.html#skills",
+    "href": "projects/resume.html#skills",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Python, pandas, scikit-learn, PyTorch\nData visualization: plotly, matplotlib, seaborn\nSQL, Docker, cloud basics"
+  },
+  {
+    "objectID": "projects/resume.html#experience-projects",
+    "href": "projects/resume.html#experience-projects",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Project A — short bullet point summary\nProject B — short bullet point summary"
+  },
+  {
+    "objectID": "projects/resume.html#contact-hire-me",
+    "href": "projects/resume.html#contact-hire-me",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "If you’d like to reach me directly, send an email or use the form below (Formspree example):\n\nName  Email  Message\n\n Send\n\nNotes: - Replace https://formspree.io/f/your-form-id with your Formspree form endpoint or another form backend."
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "An interactive web application built with Shiny for exploring and visualizing the Iris dataset. This app allows you to filter data by species and view correlations between sepal and petal measurements.\n\n\nThe Data Explorer app provides an interactive interface for analyzing the Iris dataset:\n\n\n\nIris Data Visualization\n\n\nThis visualization shows the relationship between sepal length and petal length, colored by species. The app allows you to filter by species and view detailed measurements for each data point.\n\n\n\nInteract with the live Shiny application below:\n\n\n\n\n\nSpecies Filter: Select individual iris species or view all data\nInteractive Visualization: Hover over data points to see detailed measurements\nData Table: View the filtered dataset in a formatted table\nDynamic Updates: All visualizations update in real-time based on your selection\n\n\n\n\nTo run this application on your machine:\n# Install dependencies\npip install -r requirements.txt\n\n# Start the Shiny app\ncd projects/data\nshiny run app.py\nThen visit http://127.0.0.1:8000 in your browser.\n\n\n\nTechnology Stack: - Python 3.9 - Shiny for Python - Pandas for data manipulation - Plotly for interactive visualizations\nRepository: add links to notebooks and artifacts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my portfolio. Below are featured projects and an interactive data demo.\n\n\n\nProject: Predictive modeling of housing prices — see details in the Projects section.\n\n\n\n\nRun the sample Shiny app locally and open:\n\nhttp://127.0.0.1:8000 (Shiny app)\n\nYou can embed the running app using an iframe in a hosted environment."
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Home",
+    "section": "",
+    "text": "Project: Predictive modeling of housing prices — see details in the Projects section."
+  },
+  {
+    "objectID": "index.html#interactive-demo",
+    "href": "index.html#interactive-demo",
+    "title": "Home",
+    "section": "",
+    "text": "Run the sample Shiny app locally and open:\n\nhttp://127.0.0.1:8000 (Shiny app)\n\nYou can embed the running app using an iframe in a hosted environment."
+  },
+  {
+    "objectID": "projects/project1.html#preview",
+    "href": "projects/project1.html#preview",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "The Data Explorer app provides an interactive interface for analyzing the Iris dataset:\n\n\n\nIris Data Visualization\n\n\nThis visualization shows the relationship between sepal length and petal length, colored by species. The app allows you to filter by species and view detailed measurements for each data point."
+  },
+  {
+    "objectID": "projects/project1.html#interactive-demo",
+    "href": "projects/project1.html#interactive-demo",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Interact with the live Shiny application below:"
+  },
+  {
+    "objectID": "projects/project1.html#features",
+    "href": "projects/project1.html#features",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Species Filter: Select individual iris species or view all data\nInteractive Visualization: Hover over data points to see detailed measurements\nData Table: View the filtered dataset in a formatted table\nDynamic Updates: All visualizations update in real-time based on your selection"
+  },
+  {
+    "objectID": "projects/project1.html#project-details",
+    "href": "projects/project1.html#project-details",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Technology Stack: - Python 3.9 - Shiny for Python - Pandas for data manipulation - Plotly for interactive visualizations\nRepository: add links to notebooks and artifacts."
+  },
+  {
+    "objectID": "projects/project1.html#running-the-app-locally",
+    "href": "projects/project1.html#running-the-app-locally",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "To run this application on your machine:\n# Install dependencies\npip install -r requirements.txt\n\n# Start the Shiny app\ncd projects/data\nshiny run app.py\nThen visit http://127.0.0.1:8000 in your browser."
+  },
+  {
+    "objectID": "projects/index.html#data-explorer---iris-dataset",
+    "href": "projects/index.html#data-explorer---iris-dataset",
+    "title": "Projects",
+    "section": "",
+    "text": "An interactive web application built with Shiny for exploring and visualizing the Iris dataset.\n\n\n\nIris Data Visualization\n\n\nThis project demonstrates object-oriented Python design patterns applied to a real-world data visualization application. It uses Shiny for interactivity and Plotly for dynamic visualizations.\nView Project Details →"
+  }
+]

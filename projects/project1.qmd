@@ -1,0 +1,56 @@
+---
+title: "Data Explorer - Iris Dataset"
+format: html
+---
+
+# Data Explorer - Iris Dataset
+
+An interactive web application built with Shiny for exploring and visualizing the Iris dataset. This app allows you to filter data by species and view correlations between sepal and petal measurements.
+
+## Preview
+
+The Data Explorer app provides an interactive interface for analyzing the Iris dataset:
+
+![Iris Data Visualization](../assets/shiny_preview.png)
+
+This visualization shows the relationship between sepal length and petal length, colored by species. The app allows you to filter by species and view detailed measurements for each data point.
+
+## Interactive Demo
+
+Interact with the live Shiny application below:
+
+```{=html}
+<iframe src="http://127.0.0.1:8000" width="100%" height="800" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
+```
+
+## Features
+
+- **Species Filter**: Select individual iris species or view all data
+- **Interactive Visualization**: Hover over data points to see detailed measurements
+- **Data Table**: View the filtered dataset in a formatted table
+- **Dynamic Updates**: All visualizations update in real-time based on your selection
+
+## Running the App Locally
+
+To run this application on your machine:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Start the Shiny app
+cd projects/data
+shiny run app.py
+```
+
+Then visit `http://127.0.0.1:8000` in your browser.
+
+## Project Details
+
+**Technology Stack:**
+- Python 3.9
+- Shiny for Python
+- Pandas for data manipulation
+- Plotly for interactive visualizations
+
+**Repository:** add links to notebooks and artifacts.

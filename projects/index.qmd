@@ -1,0 +1,18 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+A selection of data science projects showcasing different techniques and technologies.
+
+## Data Explorer - Iris Dataset
+
+An interactive web application built with Shiny for exploring and visualizing the Iris dataset.
+
+[![Iris Data Visualization](../assets/shiny_preview.png)](project1.qmd)
+
+This project demonstrates object-oriented Python design patterns applied to a real-world data visualization application. It uses Shiny for interactivity and Plotly for dynamic visualizations.
+
+[View Project Details →](project1.qmd)

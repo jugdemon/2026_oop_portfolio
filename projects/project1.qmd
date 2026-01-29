@@ -1,12 +1,39 @@
 ---
-title: "Housing Prices Prediction"
+title: "Data Explorer - Iris Dataset"
 format: html
 ---
 
-# Housing Prices Prediction
+# Data Explorer - Iris Dataset
 
-Short summary of the project, links to code, and an interactive demo.
+An interactive web application built with Shiny for exploring and visualizing the Iris dataset. This app allows you to filter data by species and view correlations between sepal and petal measurements.
 
-**Demo:** run the Shiny app locally and open http://127.0.0.1:8000
+## Preview
+
+![Iris Data Visualization](../assets/shiny_preview.png)
+
+## Interactive Demo
+
+The live Shiny application is running below. You can select different iris species to filter the data and explore the relationships between different measurements.
+
+```{=html}
+<iframe src="http://127.0.0.1:8000" width="100%" height="800" style="border: 1px solid #ccc;"></iframe>
+```
+
+*Note: The embedded app requires the Shiny server to be running locally on port 8000. If the app doesn't load, ensure you've started it with `shiny run projects/data/app.py`.*
+
+## Features
+
+- **Species Filter**: Select individual iris species or view all data
+- **Interactive Visualization**: Hover over data points to see detailed measurements
+- **Data Table**: View the filtered dataset in a formatted table
+- **Dynamic Updates**: All visualizations update in real-time based on your selection
+
+## Project Details
+
+**Technology Stack:**
+- Python 3.9
+- Shiny for Python
+- Pandas for data manipulation
+- Plotly for interactive visualizations
 
 **Repository:** add links to notebooks and artifacts.

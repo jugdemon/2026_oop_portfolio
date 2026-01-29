@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nShort bio, skills, contact info, and a link to your resume.\n\nSkills: Python, pandas, scikit-learn, SQL, data visualization\nContact: your.email@example.com\n\nUpload a resume.pdf to the repo root and link it here when ready."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\nA few project summaries. Click a project to see details and interactive demos where available.\n\nHousing Prices Prediction"
+  },
+  {
+    "objectID": "projects/resume.html",
+    "href": "projects/resume.html",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Data Scientist • Machine Learning • Visualization\n\nEmail: your.email@example.com\nLinkedIn: https://www.linkedin.com/in/your-profile\nGitHub: https://github.com/your-username\n\n\n\nShort 2–3 sentence summary about your focus, strengths, and the roles you’re seeking.\n\n\n\n\nPython, pandas, scikit-learn, PyTorch\nData visualization: plotly, matplotlib, seaborn\nSQL, Docker, cloud basics\n\n\n\n\n\nProject A — short bullet point summary\nProject B — short bullet point summary\n\n\n\n\nIf you’d like to reach me directly, send an email or use the form below (Formspree example):\n\nName  Email  Message\n\n Send\n\nNotes: - Replace https://formspree.io/f/your-form-id with your Formspree form endpoint or another form backend."
+  },
+  {
+    "objectID": "projects/resume.html#summary",
+    "href": "projects/resume.html#summary",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Short 2–3 sentence summary about your focus, strengths, and the roles you’re seeking."
+  },
+  {
+    "objectID": "projects/resume.html#skills",
+    "href": "projects/resume.html#skills",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Python, pandas, scikit-learn, PyTorch\nData visualization: plotly, matplotlib, seaborn\nSQL, Docker, cloud basics"
+  },
+  {
+    "objectID": "projects/resume.html#experience-projects",
+    "href": "projects/resume.html#experience-projects",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "Project A — short bullet point summary\nProject B — short bullet point summary"
+  },
+  {
+    "objectID": "projects/resume.html#contact-hire-me",
+    "href": "projects/resume.html#contact-hire-me",
+    "title": "Resume & Contact",
+    "section": "",
+    "text": "If you’d like to reach me directly, send an email or use the form below (Formspree example):\n\nName  Email  Message\n\n Send\n\nNotes: - Replace https://formspree.io/f/your-form-id with your Formspree form endpoint or another form backend."
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Housing Prices Prediction",
+    "section": "",
+    "text": "Housing Prices Prediction\nShort summary of the project, links to code, and an interactive demo.\nDemo: run the Shiny app locally and open http://127.0.0.1:8000\nRepository: add links to notebooks and artifacts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to my portfolio. Below are featured projects and an interactive data demo.\n\n\n\nProject: Predictive modeling of housing prices — see details in the Projects section.\n\n\n\n\nRun the sample Shiny app locally and open:\n\nhttp://127.0.0.1:8000 (Shiny app)\n\nYou can embed the running app using an iframe in a hosted environment."
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Home",
+    "section": "",
+    "text": "Project: Predictive modeling of housing prices — see details in the Projects section."
+  },
+  {
+    "objectID": "index.html#interactive-demo",
+    "href": "index.html#interactive-demo",
+    "title": "Home",
+    "section": "",
+    "text": "Run the sample Shiny app locally and open:\n\nhttp://127.0.0.1:8000 (Shiny app)\n\nYou can embed the running app using an iframe in a hosted environment."
+  }
+]

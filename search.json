@@ -11,7 +11,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\nA few project summaries. Click a project to see details and interactive demos where available.\n\nHousing Prices Prediction"
+    "text": "A selection of data science projects showcasing different techniques and technologies.\n\n\nAn interactive web application built with Shiny for exploring and visualizing the Iris dataset.\n\n\n\nIris Data Visualization\n\n\nThis project demonstrates object-oriented Python design patterns applied to a real-world data visualization application. It uses Shiny for interactivity and Plotly for dynamic visualizations.\nView Project Details →"
   },
   {
     "objectID": "projects/resume.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "projects/project1.html",
     "href": "projects/project1.html",
-    "title": "Housing Prices Prediction",
+    "title": "Data Explorer - Iris Dataset",
     "section": "",
-    "text": "Housing Prices Prediction\nShort summary of the project, links to code, and an interactive demo.\nDemo: run the Shiny app locally and open http://127.0.0.1:8000\nRepository: add links to notebooks and artifacts."
+    "text": "An interactive web application built with Shiny for exploring and visualizing the Iris dataset. This app allows you to filter data by species and view correlations between sepal and petal measurements.\n\n\nThe Data Explorer app provides an interactive interface for analyzing the Iris dataset:\n\n\n\nIris Data Visualization\n\n\nThis visualization shows the relationship between sepal length and petal length, colored by species. The app allows you to filter by species and view detailed measurements for each data point.\n\n\n\nInteract with the live Shiny application below:\n\n\n\n\n\nSpecies Filter: Select individual iris species or view all data\nInteractive Visualization: Hover over data points to see detailed measurements\nData Table: View the filtered dataset in a formatted table\nDynamic Updates: All visualizations update in real-time based on your selection\n\n\n\n\nTo run this application on your machine:\n# Install dependencies\npip install -r requirements.txt\n\n# Start the Shiny app\ncd projects/data\nshiny run app.py\nThen visit http://127.0.0.1:8000 in your browser.\n\n\n\nTechnology Stack: - Python 3.9 - Shiny for Python - Pandas for data manipulation - Plotly for interactive visualizations\nRepository: add links to notebooks and artifacts."
   },
   {
     "objectID": "index.html",
@@ -75,5 +75,47 @@
     "title": "Home",
     "section": "",
     "text": "Run the sample Shiny app locally and open:\n\nhttp://127.0.0.1:8000 (Shiny app)\n\nYou can embed the running app using an iframe in a hosted environment."
+  },
+  {
+    "objectID": "projects/project1.html#preview",
+    "href": "projects/project1.html#preview",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "The Data Explorer app provides an interactive interface for analyzing the Iris dataset:\n\n\n\nIris Data Visualization\n\n\nThis visualization shows the relationship between sepal length and petal length, colored by species. The app allows you to filter by species and view detailed measurements for each data point."
+  },
+  {
+    "objectID": "projects/project1.html#interactive-demo",
+    "href": "projects/project1.html#interactive-demo",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Interact with the live Shiny application below:"
+  },
+  {
+    "objectID": "projects/project1.html#features",
+    "href": "projects/project1.html#features",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Species Filter: Select individual iris species or view all data\nInteractive Visualization: Hover over data points to see detailed measurements\nData Table: View the filtered dataset in a formatted table\nDynamic Updates: All visualizations update in real-time based on your selection"
+  },
+  {
+    "objectID": "projects/project1.html#project-details",
+    "href": "projects/project1.html#project-details",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "Technology Stack: - Python 3.9 - Shiny for Python - Pandas for data manipulation - Plotly for interactive visualizations\nRepository: add links to notebooks and artifacts."
+  },
+  {
+    "objectID": "projects/project1.html#running-the-app-locally",
+    "href": "projects/project1.html#running-the-app-locally",
+    "title": "Data Explorer - Iris Dataset",
+    "section": "",
+    "text": "To run this application on your machine:\n# Install dependencies\npip install -r requirements.txt\n\n# Start the Shiny app\ncd projects/data\nshiny run app.py\nThen visit http://127.0.0.1:8000 in your browser."
+  },
+  {
+    "objectID": "projects/index.html#data-explorer---iris-dataset",
+    "href": "projects/index.html#data-explorer---iris-dataset",
+    "title": "Projects",
+    "section": "",
+    "text": "An interactive web application built with Shiny for exploring and visualizing the Iris dataset.\n\n\n\nIris Data Visualization\n\n\nThis project demonstrates object-oriented Python design patterns applied to a real-world data visualization application. It uses Shiny for interactivity and Plotly for dynamic visualizations.\nView Project Details →"
   }
 ]

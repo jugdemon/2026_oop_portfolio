@@ -1,0 +1,20 @@
+---
+title: "Home"
+format: html
+---
+
+# Hi — I'm a Data Science Student
+
+Welcome to my portfolio. Below are featured projects and an interactive data demo.
+
+## Featured Project
+
+- Project: Predictive modeling of housing prices — see details in the Projects section.
+
+## Interactive Demo
+
+Run the sample Shiny app locally and open:
+
+- http://127.0.0.1:8000 (Shiny app)
+
+You can embed the running app using an iframe in a hosted environment.

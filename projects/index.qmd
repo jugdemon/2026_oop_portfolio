@@ -1,0 +1,10 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+A few project summaries. Click a project to see details and interactive demos where available.
+
+- [Housing Prices Prediction](project1.qmd)

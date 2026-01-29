@@ -1,0 +1,12 @@
+---
+title: "Housing Prices Prediction"
+format: html
+---
+
+# Housing Prices Prediction
+
+Short summary of the project, links to code, and an interactive demo.
+
+**Demo:** run the Shiny app locally and open http://127.0.0.1:8000
+
+**Repository:** add links to notebooks and artifacts.

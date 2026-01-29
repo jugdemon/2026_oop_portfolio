@@ -1,0 +1,44 @@
+---
+title: "Resume & Contact"
+format: html
+---
+
+# Your Name
+
+**Data Scientist • Machine Learning • Visualization**
+
+- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/your-username
+
+## Summary
+
+Short 2–3 sentence summary about your focus, strengths, and the roles you're seeking.
+
+## Skills
+
+- Python, pandas, scikit-learn, PyTorch
+- Data visualization: plotly, matplotlib, seaborn
+- SQL, Docker, cloud basics
+
+## Experience / Projects
+
+- Project A — short bullet point summary
+- Project B — short bullet point summary
+
+## Contact / Hire Me
+
+If you'd like to reach me directly, send an email or use the form below (Formspree example):
+
+<form action="https://formspree.io/f/your-form-id" method="POST">
+  <label for="name">Name</label><br>
+  <input type="text" id="name" name="name" required><br>
+  <label for="email">Email</label><br>
+  <input type="email" id="email" name="email" required><br>
+  <label for="message">Message</label><br>
+  <textarea id="message" name="message" rows="4" required></textarea><br>
+  <button type="submit">Send</button>
+</form>
+
+Notes:
+- Replace `https://formspree.io/f/your-form-id` with your Formspree form endpoint or another form backend.

@@ -20,7 +20,7 @@ This visualization shows the relationship between sepal length and petal length,
 Interact with the live Shiny application below:
 
 ```{=html}
-<iframe src="http://127.0.0.1:8000" width="100%" height="800" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
+<iframe src="https://019c0abb-84a7-0b13-4068-0e4f305e4b63.share.connect.posit.cloud" width="100%" height="800" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>
 ```
 
 ## Features
